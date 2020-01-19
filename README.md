@@ -4,8 +4,8 @@
 
 1. Clone and install dependecies
 ```
-git clone https://github.com/benawad/type-graphql-series.git
-cd type-graphql-series
+git clone https://github.com/abrar30/GQL_Training.git
+cd GQL_Training
 yarn
 ```
 2. Make sure you have PostgreSQL running on your computer with a database called `GQL` and a user who has access to that database with the username `postgres` and password `postgres`
