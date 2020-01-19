@@ -1,6 +1,4 @@
-# type-graphql-series
-
-Code for: https://www.youtube.com/playlist?list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs
+# typeScript-Graphql
 
 # Installing
 
@@ -10,7 +8,7 @@ git clone https://github.com/benawad/type-graphql-series.git
 cd type-graphql-series
 yarn
 ```
-2. Make sure you have PostgreSQL running on your computer with a database called `typegraphql-example` and a user who has access to that database with the username `postgres` and password `postgres`
+2. Make sure you have PostgreSQL running on your computer with a database called `GQL` and a user who has access to that database with the username `postgres` and password `postgres`
 * Mac: https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
 * Windows: https://www.guru99.com/download-install-postgresql.html
 * Docker: https://www.youtube.com/watch?v=G3gnMSyX-XM
@@ -28,4 +26,7 @@ yarn start
 ```
 To verified it worked, you can go to http://localhost:4000
 
-If you need any help setting this up feel free to message me on Discord: https://discord.gg/Vehs99V
+
+
+
+Code from: https://www.youtube.com/playlist?list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs
